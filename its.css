@@ -76,7 +76,7 @@ html {
 .marquee-content {
     display: flex;
     width: 200%;  
-    animation: marquee 12s linear infinite;
+    animation: marquee 85s linear infinite;
 }
 
 .top-heading-1 {
